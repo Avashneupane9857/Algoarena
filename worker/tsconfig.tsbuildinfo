@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/interface/index.ts","./src/utils/creds.ts","./src/utils/lang.ts","./src/utils/local.ts","./src/utils/processrequest.ts","./src/utils/runner.ts"],"version":"5.6.3"}
